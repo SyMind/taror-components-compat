@@ -1,0 +1,9 @@
+{
+  "name": "@taror/components-compat",
+  "version": "0.0.1",
+  "description": "用 React 组件库替换 Taro 中的 Web Components 组件库 🤟",
+  "main": "index.js",
+  "dependencies": {
+    "@taror/components": "^2.0.5"
+  }
+}

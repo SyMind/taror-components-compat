@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+.DS_Store
+
+taror.css
+taror.css.map
+
+# Taro
+dist/
+deploy_versions/
+.temp/
+.rn_temp/
+.swc
