@@ -1,6 +1,6 @@
 {
   "name": "@taror/components-compat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "用 React 组件库替换 Taro 中的 Web Components 组件库 🤟",
   "license": "MIT",
   "files": [
