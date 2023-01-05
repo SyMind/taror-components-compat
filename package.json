@@ -1,18 +1,24 @@
 {
   "name": "@taror/components-compat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "用 React 组件库替换 Taro 中的 Web Components 组件库 🤟",
   "license": "MIT",
+  "keywords": ["taro", "taro3", "tarojs", "component", "react"],
+  "author": "SyMind",
+  "bugs": {
+    "url": "https://github.com/SyMind/taror-components-compat/issues"
+  },
+  "homepage": "https://github.com/SyMind/taror-components-compat#readme",
   "files": [
     "babel.js",
     "index.js",
     "taror.css",
     "taror.css.map"
-],
+  ],
   "main": "index.js",
   "scripts": {
     "build": "node scripts/build.js"
-},
+  },
   "dependencies": {
     "@taror/components": "^2.0.7"
   }
