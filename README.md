@@ -43,8 +43,8 @@ module.exports = {
 ## 视图容器
 
 - [ ] Block
-- [ ] CoverImage
-- [ ] CoverView
+- [x] CoverImage
+- [x] CoverView
 - [ ] MatchMedia
 - [ ] MovableArea
 - [ ] MovableView
