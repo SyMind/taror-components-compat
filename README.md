@@ -120,3 +120,6 @@ module.exports = {
 - [ ] CustomWrapper
 - [ ] Slot
 
+# License
+
+[MIT](./LICENSE)
